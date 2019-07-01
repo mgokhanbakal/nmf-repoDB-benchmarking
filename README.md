@@ -15,4 +15,4 @@ This repository contains the validation and test set splits of [repoDB](http://a
 
 * *Approved_treatments_validation.txt* - Each line represents an approved treatment CUI pair from repoDB in the format of (<subject_CUI>	<object_CUI>).
 									
-* *Failed_indications_validation.txt* - Each line similarly demonstrates a failed indication CUI pair from repoDB in the format of (<subject_CUI>	<object_CUI>).
+* *Failed_indications_validation.txt* - Each line similarly shows a failed indication CUI pair from repoDB in the format of (<subject_CUI>	<object_CUI>).
