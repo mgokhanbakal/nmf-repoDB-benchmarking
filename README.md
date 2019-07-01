@@ -1,7 +1,7 @@
 # Benchmarking Files Used in NMF Experiments with repoDB Dataset
 
 
-This repository contains the validation and test set splits of [repoDB](http://apps.chiragjpgroup.org/repoDB/) drug–disease pairs used in the study of "Non-Negative Matrix Factorization for Drug Repositioning: Experiments with the repoDB Dataset".
+This repository contains the validation and test set splits of [repoDB](http://apps.chiragjpgroup.org/repoDB/) drug–disease pairs used in the study of "Non-Negative Matrix Factorization for Drug Repositioning: Experiments with the repoDB Dataset" published at AMIA 2019 Annual Symposium.
 
 
 ## For the test set, there are two files under the [benchmark/test/](https://github.com/mgokhanbakal/testRepo/tree/master/benchmark/test) directory:
